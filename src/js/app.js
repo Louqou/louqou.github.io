@@ -1,6 +1,6 @@
 /* sweetScroll load */
 document.addEventListener("DOMContentLoaded", function () {
-  new SweetScroll({/* some options */});
+  new SweetScroll({/* some options */ });
 
   /* particlesJS.load(@dom-id, @path-json, @callback (optional)); */
   particlesJS('particles-js', {
@@ -19,7 +19,7 @@ document.addEventListener("DOMContentLoaded", function () {
         "type": "polygon",
         "stroke": {
           "width": 0,
-          "color": "#000000"
+          "color": "##1f0059"
         },
         "polygon": {
           "nb_sides": 5
