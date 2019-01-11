@@ -68,15 +68,10 @@
 }
 
 .images-center {
-  @media only screen and (min-width: $cut) {
-    float: none;
-    width: 48%;
-  }
-  img {
-    @media only screen and (min-width: $cut) {
-      float: none;
-    }
-  }
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
 .project-link {
