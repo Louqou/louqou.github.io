@@ -19,7 +19,7 @@ document.addEventListener("DOMContentLoaded", function () {
         "type": "polygon",
         "stroke": {
           "width": 0,
-          "color": "##1f0059"
+          "color": "#000000"
         },
         "polygon": {
           "nb_sides": 5
