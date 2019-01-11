@@ -69,12 +69,12 @@
 
 .images-center {
   @media only screen and (min-width: $cut) {
-    float: auto;
+    float: none;
     width: 48%;
   }
   img {
     @media only screen and (min-width: $cut) {
-      float: auto;
+      float: none;
     }
   }
 }
